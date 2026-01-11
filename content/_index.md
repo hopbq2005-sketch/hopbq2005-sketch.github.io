@@ -5,4 +5,4 @@ title="Quang-Cuong Bui"
 {{< bqc-portfolio >}}
 
 <br/>
-fb: https://www.facebook.com/hop.buiquang.984
+<a href="https://www.facebook.com/hop.buiquang.984">FB: Bui Quang Hop</a>
