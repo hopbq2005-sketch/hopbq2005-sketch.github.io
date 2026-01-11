@@ -1,5 +1,5 @@
-baseURL = "https://cuong.buiquang.com"
-title   = "Quang-Cuong Bui"
+baseURL = "https://hopbq2005-sketch.github.io"
+title   = "Quang-Hop Bui"
 languageCode = "en-us"
 theme = "hfng"
 
@@ -10,7 +10,7 @@ paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-googleAnalytics = "G-937NMLW2JP"
+#googleAnalytics = "G-937NMLW2JP"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
